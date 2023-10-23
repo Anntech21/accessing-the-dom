@@ -4,8 +4,8 @@
 // Select and then log the elements with the class of 'main-section'
 
 
-
-
+let mainSection = document.getElementsByClassName("main-section");
+console.log("mainSection");
 
 
 
@@ -16,7 +16,8 @@
  
 
 
-
+let importantText = document.getElementsByClassName("important-text");
+console.log("importantText");
 
 
 
